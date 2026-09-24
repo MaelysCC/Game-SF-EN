@@ -1,4 +1,4 @@
-yes I put a readme
+yes I added a readme
 at least we know what we're doing
 
 ## Structure

@@ -1,0 +1,3 @@
+- divine entity ? 
+- demon/alien/ancient being?
+- Eldritch ?
