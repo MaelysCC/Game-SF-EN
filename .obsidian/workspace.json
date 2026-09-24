@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charactere/Threat.md",
+                "file": "IMG_ref/Img_Ref_detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threat"
+              "title": "Img_Ref_detail"
             }
           }
         ],
@@ -261,6 +261,13 @@
   },
   "active": "b2fc66f4b2677a72",
   "lastOpenFiles": [
+    "IMG_ref/Ruins/Pasted image 20260924120750.png",
+    "Charactere/Threat.md",
+    "IMG_ref/Img_Ref_detail.md",
+    "IMG_ref/Other",
+    "IMG_ref/CharacterSheet",
+    "IMG_ref/Space",
+    "IMG_ref/Ruins",
     "Idea.md",
     "ReadMe.md",
     "Gameplay.md",
@@ -270,7 +277,6 @@
     "Music_ref",
     "Charactere/MC.md",
     "IMG_ref",
-    "Charactere/Threat.md",
     "Environment",
     "Charactere"
   ]
