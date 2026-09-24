@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadMe"
+              "title": "Gameplay"
             }
           }
         ],
@@ -261,16 +261,16 @@
   },
   "active": "b2fc66f4b2677a72",
   "lastOpenFiles": [
+    "Game idea.md",
     "Gameplay.md",
+    "Idea.md",
     "ReadMe.md",
+    "Environment/Space BIG ROCK.md",
     "Music_ref/Music Link.md",
     "Music_ref",
     "Charactere/MC.md",
     "IMG_ref",
     "Charactere/Threat.md",
-    "Game idea.md",
-    "Idea.md",
-    "Environment/Space BIG ROCK.md",
     "Environment",
     "Charactere"
   ]
