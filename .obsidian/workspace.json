@@ -81,14 +81,12 @@
             "id": "b2fc66f4b2677a72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IMG_ref/Img_Ref_detail.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_ref/Space/Exterior_Environement_Moon_Star.png"
               },
-              "icon": "lucide-file",
-              "title": "Img_Ref_detail"
+              "icon": "lucide-image",
+              "title": "Exterior_Environement_Moon_Star"
             }
           }
         ],
@@ -261,18 +259,19 @@
   },
   "active": "b2fc66f4b2677a72",
   "lastOpenFiles": [
-    "IMG_ref/Ruins/archiin.jpg",
-    "IMG_ref/Ruins/archiin2.jpg",
-    "IMG_ref/Ruins/archiout.jpg",
-    "IMG_ref/Ruins/image.jpg",
-    "IMG_ref/Ruins/outside.jpg",
-    "IMG_ref/Ruins/templein.jpg",
+    "IMG_ref/Space/Exterior_Environement_Moon_baseGrey.png",
+    "IMG_ref/Space/Exterior_Environement_Moon_base.png",
+    "IMG_ref/Space/Exterior_Environement_Moon.png",
     "IMG_ref/Ruins/templeInside.jpg",
-    "IMG_ref/Ruins/templeInside2.jpg",
-    "IMG_ref/Ruins/templeoutside.jpg",
-    "IMG_ref/Ruins/Pasted image 20260924120750.png",
-    "Charactere/Threat.md",
+    "IMG_ref/Ruins/templein.jpg",
+    "IMG_ref/Ruins/outside.jpg",
+    "IMG_ref/Ruins/image.jpg",
+    "IMG_ref/Ruins/archiout.jpg",
+    "IMG_ref/Ruins/archiin2.jpg",
+    "IMG_ref/Ruins/archiin.jpg",
     "IMG_ref/Img_Ref_detail.md",
+    "IMG_ref/Space/Exterior_Environement_Moon_StarBase.png",
+    "Charactere/Threat.md",
     "IMG_ref/Other",
     "IMG_ref/CharacterSheet",
     "IMG_ref/Space",
