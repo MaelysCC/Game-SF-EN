@@ -81,12 +81,14 @@
             "id": "b2fc66f4b2677a72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_ref/Space/Exterior_Environement_Moon_Star.png"
+                "file": "Environment/Space BIG ROCK.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Exterior_Environement_Moon_Star"
+              "icon": "lucide-file",
+              "title": "Space BIG ROCK"
             }
           }
         ],
@@ -259,6 +261,7 @@
   },
   "active": "b2fc66f4b2677a72",
   "lastOpenFiles": [
+    "IMG_ref/Space/Exterior_Environement_Moon_Star.png",
     "IMG_ref/Space/Exterior_Environement_Moon_baseGrey.png",
     "IMG_ref/Space/Exterior_Environement_Moon_base.png",
     "IMG_ref/Space/Exterior_Environement_Moon.png",
@@ -270,7 +273,6 @@
     "IMG_ref/Ruins/archiin2.jpg",
     "IMG_ref/Ruins/archiin.jpg",
     "IMG_ref/Img_Ref_detail.md",
-    "IMG_ref/Space/Exterior_Environement_Moon_StarBase.png",
     "Charactere/Threat.md",
     "IMG_ref/Other",
     "IMG_ref/CharacterSheet",
